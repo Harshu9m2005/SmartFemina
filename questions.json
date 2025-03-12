@@ -1,0 +1,102 @@
+[
+    {
+        "question": "Award-winning journalist, known for conflict reporting",
+        "options": [
+            "Mayawati",
+            "Tarla Dalal",
+            "Barkha Dutt",
+            "Smriti Mandhana"
+        ],
+        "answer": "Barkha Dutt"
+    },
+    {
+        "question": "Renowned Bharatanatyam and Odissi dancer",
+        "options": [
+            "Sonal Mansingh",
+            "Deepa Malik",
+            "Mary Kom",
+            "Irom Sharmila"
+        ],
+        "answer": "Sonal Mansingh"
+    },
+    {
+        "question": "Founder of Nykaa, India's beauty retail giant",
+        "options": [
+            "Sarojini Naidu",
+            "Falguni Nayar",
+            "Mary Kom",
+            "Vandana Shiva"
+        ],
+        "answer": "Falguni Nayar"
+    },
+    {
+        "question": "Six-time world champion boxer, Olympic medalist",
+        "options": [
+            "Mary Kom",
+            "Sonal Mansingh",
+            "Vandana Shiva",
+            "Kiran Mazumdar"
+        ],
+        "answer": "Mary Kom"
+    },
+    {
+        "question": "Best-selling author, known for The Zoya Factor",
+        "options": [
+            "Vandana Shiva",
+            "Deepa Malik",
+            "Mira Nair",
+            "Anuja Chauhan"
+        ],
+        "answer": "Anuja Chauhan"
+    },
+    {
+        "question": "Author of The God of Small Things, Booker Prize winner",
+        "options": [
+            "Suneeta Reddy",
+            "Laxmi Agarwal",
+            "Sudha Murthy",
+            "Arundhati Roy"
+        ],
+        "answer": "Arundhati Roy"
+    },
+    {
+        "question": "Acid attack survivor, advocate for women's rights",
+        "options": [
+            "Mira Nair",
+            "Gita Gopinath",
+            "Laxmi Agarwal",
+            "Trinetra Haldar Gummaraju"
+        ],
+        "answer": "Laxmi Agarwal"
+    },
+    {
+        "question": "Legendary playback singer, Bharat Ratna awardee",
+        "options": [
+            "Dutee Chand",
+            "Indira Jaising",
+            "Lata Mangeshkar",
+            "Tessy Thomas"
+        ],
+        "answer": "Lata Mangeshkar"
+    },
+    {
+        "question": "First woman governor of an Indian state, renowned poet",
+        "options": [
+            "Irom Sharmila",
+            "Sarojini Naidu",
+            "Kiran Bedi",
+            "Mary Kom"
+        ],
+        "answer": "Sarojini Naidu"
+    },
+    {
+        "question": "India's most successful female tennis player",
+        "options": [
+            "Vandana Shiva",
+            "Radhika Gupta",
+            "Mira Nair",
+            "Sania Mirza"
+        ],
+        "answer": "Sania Mirza"
+    }
+]
